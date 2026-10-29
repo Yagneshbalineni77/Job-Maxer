@@ -1,0 +1,30 @@
+JOB BOT CHROME EXTENSION
+========================
+
+INSTALL (once, about 1 minute)
+0. First run:  python build_extension.py   (creates the extension files)
+1. In your normal Chrome, open:  chrome://extensions
+2. Turn on "Developer mode" (switch at the top right).
+3. Click "Load unpacked" and choose this folder:
+      the "extension" folder inside this project
+4. Optional: click the puzzle-piece icon in Chrome's toolbar and pin "Job Bot".
+
+EVERY TIME YOU USE IT
+1. start.bat > option 9. A window "Job Bot helper" opens: leave it open.
+2. In your normal Chrome (already logged in), open any job application form:
+   Wellfound, Naukri, LinkedIn, Internshala, Lever, Workable, Greenhouse, Ashby...
+3. Click the blue "Fill with Job Bot" button at the bottom right.
+   - Green outline = filled. The panel lists anything that needs you and shows
+     what Gemini wrote for the written questions.
+   - Multi-page form (LinkedIn Easy Apply): click Fill again on each page.
+4. Check the form and click the site's own Submit / Apply button yourself.
+5. Click "I submitted" so the auto-apply bot skips that job.
+
+GOOD TO KNOW
+- The extension only talks to the helper on your own laptop, with a private key.
+  If you see "helper is not running", do step 1.
+- Aadhaar / PAN files are never sent to company sites. No photos are attached on
+  company sites.
+- After changing profile.json, close the helper window and start it again (option 9).
+- After the bot's code is updated, run "python build_extension.py" and click the
+  reload arrow on the Job Bot card in chrome://extensions.

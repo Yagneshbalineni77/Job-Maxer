@@ -1,0 +1,29 @@
+{
+  "max_per_day": 20,
+  "test_mode": true,
+  "show_browser": true,
+  "include_roles": "software|\\bsde\\b|\\bswe\\b|developer|back-?end|full.?stack|front.?end|machine learning|\\bml\\b|\\bai\\b|artificial intelligence|data scien|computer vision|deep learning|\\bllm|gen ?ai|generative|\\bnlp\\b|applied scientist|research engineer|agent|forward deployed|platform engineer|data engineer|intern",
+  "exclude_roles": "hardware|vlsi|asic|fpga|embedded|firmware|verification|\\brtl\\b|silicon|analog|\\bpcb\\b|customer|support|sales|account|consultant|value engineer|operations|recruit|marketing|legal|finance|manager|senior|\\bsr\\b|staff|principal|lead|data collection|transcri|annotat|voice data|labell?ing|moderator|tutor|vice president|principle|director|head of|\\bphd\\b",
+  "fit_roles": "software engineering / SDE / backend / full-stack, or ML / AI / data science / GenAI / LLM / agents",
+  "fit_avoid": "hardware, VLSI, embedded, firmware, sales, support, consulting or operations",
+  "fit_location": "India",
+  "locations": "india|bengaluru|bangalore|hyderabad|chennai|pune|mumbai|gurgaon|gurugram|noida|delhi|ncr|kolkata|ahmedabad|kochi|coimbatore|trivandrum|jaipur",
+  "gemini_models": [
+    "gemini-3.5-flash",
+    "gemini-3.5-flash-lite",
+    "gemini-3.8-flash",
+    "gemini-3.7-flash"
+  ],
+  "captcha_wait_minutes": 3,
+  "you_submit_sites": [],
+  "hand_over_minutes": 5,
+  "you_submit_companies": [],
+  "manual_sites": [
+    "lever.co",
+    "myworkdayjobs.com",
+    "workable.com"
+  ],
+  "manual_companies": [],
+  "skip_companies": [],
+  "day_starts_at": 8
+}

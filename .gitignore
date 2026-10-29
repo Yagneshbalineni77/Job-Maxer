@@ -1,0 +1,26 @@
+# Your personal data: never commit
+profile.json
+answers.json
+gemini_key.txt
+docs/*
+!docs/README.md
+
+# Generated / private Chrome extension files (run build_extension.py)
+extension/*
+!extension/HOW_TO_INSTALL.txt
+
+# Bot browser profiles (logins, cookies)
+.chrome-profile/
+.chrome-auto/
+
+# Run logs and job lists
+*.csv
+*.jsonl
+seen_jobs.json
+found_jobs*.json
+pdf_jobs.json
+gov_seen.json
+screens/
+.apply_auto.lock
+__pycache__/
+*.pyc

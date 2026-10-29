@@ -1,0 +1,71 @@
+[
+  {
+    "name": "BEL",
+    "url": "https://bel-india.in/job-notifications/"
+  },
+  {
+    "name": "C-DOT",
+    "url": "https://www.cdot.in/cdotweb/web/careers.php"
+  },
+  {
+    "name": "C-DAC",
+    "url": "https://www.cdac.in/index.aspx?id=current_jobs"
+  },
+  {
+    "name": "CRIS",
+    "url": "https://cris.org.in/"
+  },
+  {
+    "name": "SAMEER",
+    "url": "https://sameer.gov.in/"
+  },
+  {
+    "name": "ECIL",
+    "url": "https://www.ecil.co.in/jobs.html"
+  },
+  {
+    "name": "NIC",
+    "url": "https://recruitment.nic.in/"
+  },
+  {
+    "name": "ISRO",
+    "url": "https://www.isro.gov.in/Careers.html"
+  },
+  {
+    "name": "DRDO RAC",
+    "url": "https://rac.gov.in/"
+  },
+  {
+    "name": "BARC",
+    "url": "https://www.barc.gov.in/careers/"
+  },
+  {
+    "name": "IBPS",
+    "url": "https://www.ibps.in/"
+  },
+  {
+    "name": "ONGC",
+    "url": "https://www.ongcindia.com/"
+  },
+  {
+    "name": "POWERGRID",
+    "url": "https://www.powergrid.in/job-opportunities"
+  },
+  {
+    "name": "NTPC",
+    "url": "https://ntpc.co.in/"
+  },
+  {
+    "name": "AAI",
+    "url": "https://www.aai.aero/en/careers/recruitment",
+    "timeout": 120
+  },
+  {
+    "name": "SEBI",
+    "url": "https://www.sebi.gov.in/"
+  },
+  {
+    "name": "NABARD",
+    "url": "https://www.nabard.org/careers-notices.aspx?cid=693&id=24"
+  }
+]
